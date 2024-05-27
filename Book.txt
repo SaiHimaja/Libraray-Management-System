@@ -1,0 +1,18 @@
+ReactJs,Anusha,5
+ReactJs,Raveena,2
+ReactJs,Raveena,2
+Web Development,Prabhas,6
+OOD,Samantha,3
+Cloud,Peter,10
+AWS Cloud,SRK,2
+Azure Cloud,Ravi,3
+Data Structures in Java,Vithal,5
+Biotechnology,Neelam,4
+Bioinformatics,Shashi,5
+Polymers,Pooja,2
+Networking,Pihu,10
+Data Science,Anhi,5
+OS,Shwetha,9
+Compiler Design,Namitha,10
+Java,Sourabh,11
+Python,Vithal,12
